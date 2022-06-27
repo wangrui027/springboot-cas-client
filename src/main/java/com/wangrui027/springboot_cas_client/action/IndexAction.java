@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.annotation.Resource;
 import javax.servlet.http.HttpSession;
 
-@Controller("/")
+@Controller
 public class IndexAction {
 
     /**
